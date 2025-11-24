@@ -1,2 +1,2 @@
 # satyam--demo
-This is my first git repository 
+This is my demo git repository 
